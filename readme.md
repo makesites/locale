@@ -1,6 +1,6 @@
 # Locale
 
-A set of conventions to production uniform looking language files
+A set of conventions to produce uniform looking language files
 
 
 # Features
