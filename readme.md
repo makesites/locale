@@ -1,7 +1,22 @@
-# 
+# Locale
 
 A set of conventions to production uniform looking language files
 
+
+# Features
+
+* Schema validator (TBA)
+* Client-side helpers for popular frameworks (TBA)
+
+
+## Install
+
+If you want the resources accessible during your development you can download the whole repo locally.
+
+Using bower:
+```
+npm install locale
+```
 
 
 ## Usage
